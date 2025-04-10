@@ -23,5 +23,5 @@ XPopup去除了jcenter，迁移到jitpack，使用jitpack.io进行依赖。
 Module的build.gradle
 
     ```
-    
+    implementation 'com.github.summersrest:XPopup-master:v1.0.0'
     ```
